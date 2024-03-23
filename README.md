@@ -2,7 +2,7 @@
 
 **Kaggle Dataset**: [Jobs and Salaries in Data Field 2024](https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024/)
 
-In the "Jobs and Salaries in the Data Field 2024" project, we will delve into the following aspects:
+After analyzing each column, you will gain insights into the following areas
 
 - **Average Salary by Job Title**: 
 - **Average Salary by Job Category**: 
